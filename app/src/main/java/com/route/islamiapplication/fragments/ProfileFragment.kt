@@ -20,6 +20,7 @@ class ProfileFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        //Developew1 => feature1 (profile fragment)
     }
 
 }
